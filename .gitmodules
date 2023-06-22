@@ -1,0 +1,12 @@
+[submodule "performer"]
+	path = performer
+	url = https://github.com/xl402/performer/
+[submodule "performer-pytorch"]
+	path = performer-pytorch
+	url = https://github.com/lucidrains/performer-pytorch
+[submodule "axial-positional-embedding"]
+	path = axial-positional-embedding
+	url = https://github.com/lucidrains/axial-positional-embedding
+[submodule "local-attention"]
+	path = local-attention
+	url = https://github.com/lucidrains/local-attention
